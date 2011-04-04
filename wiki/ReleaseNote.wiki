@@ -2,7 +2,7 @@
 
 _Copyright (C) January 2011  hasitha aravinda (Email: hasithatw@gmail.com )_
 
-# [Copyright Notice#Copyright_Notice]   
+# [Copyright-Notice#Copyright_Notice]   
 # Introduction
 # Requirements
 # Configuration
@@ -248,5 +248,3 @@ File viewer (module/viewer.php)
 
 Font resizer 0.1  (plugin/fontsize.php) author Hasitha aravinda		
 	this is client side application , which allows to resize font size in web pages.
-
-
