@@ -2,14 +2,14 @@
 
 _Copyright (C) January 2011  hasitha aravinda (Email: hasithatw@gmail.com )_
 
-# Copyright Notice 
-# Introduction
-# Requirements
-# Configuration
-# Installation / uninstallation 
-# Running
-# Directory structure
-# Modules and plugins
+ # Copyright Notice 
+ # Introduction
+ # Requirements
+ # Configuration
+ # Installation / uninstallation 
+ # Running
+ # Directory structure
+ # Modules and plugins
 
 
 
