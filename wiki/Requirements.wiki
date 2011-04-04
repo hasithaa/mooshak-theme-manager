@@ -1,0 +1,14 @@
+= Introduction =
+
+This is a plug-in for Mooshak 1.5. This system allows to administrator of the mooshak to add new Texts, Colorful backgrounds, and images to Mooshak's welcome web page. Also he/she can change the web interface of the mooshak ,editing the CSS files. This plug-in provides lot of feature to edit mooshak contents.
+
+
+= Requirements =
+
+To install Mooshak Theme manager you must have a Linux server with the following packages installed 
+
+	 * Tcl 8.3 or greater 
+	 * Apache 1.2 or greater
+	 * Mooshak 1.5 (if you have working copy of mooshak, above Requirements are already satisfied)
+	 * PHP 5.0 or greater
+	 * a Web browser (recommended browser is Mozila firefox 3.x ;
