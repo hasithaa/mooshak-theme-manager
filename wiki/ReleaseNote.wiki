@@ -94,7 +94,7 @@ At this point, PHP should be successfully installed and working.
 
 But this method will enable PHP for all user directories. For security reason this method is not a good practice. One thing can do is enable only for one user directory. To do this, follow this procedure.
 
-Do not edit /etc/apache2/mods-available/php5.conf file and create a file (as root) called /etc/apache2/conf.d/php-in-homedirs.conf with the following contents: 
+Do not edit `/etc/apache2/mods-available/php5.conf` file and create a file (as root) called `/etc/apache2/conf.d/php-in-homedirs.conf` with the following contents: 
 {{{
     <IfModule mod_userdir.c>
         <Directory /home/$USERNAME/public_html>
@@ -102,7 +102,9 @@ Do not edit /etc/apache2/mods-available/php5.conf file and create a file (as roo
         </Directory>
     </IfModule>
 }}}
-Simply replace the $USERNAME with the user name of the user you wish to allow PHP access to. Also note that the <Directory> section may be repeated as many times as is necessary. Save the file, and restart pache with a sudo /etc/init.d/apache2 restart and PHP should only be enabled for the users listed in this file.
+
+
+Simply replace the `$USERNAME` with the user name of the user you wish to allow PHP access to. Also note that the `<Directory>` section may be repeated as many times as is necessary. Save the file, and restart pache with a `sudo /etc/init.d/apache2 restart` and PHP should only be enabled for the users listed in this file.
 
 
 
