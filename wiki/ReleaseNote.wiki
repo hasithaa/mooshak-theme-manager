@@ -2,7 +2,7 @@
 
 _Copyright (C) January 2011  hasitha aravinda (Email: hasithatw@gmail.com )_
 
- # Copyright Notice 
+ # [Copyright Notice]
  # Introduction
  # Requirements
  # Configuration
@@ -13,7 +13,7 @@ _Copyright (C) January 2011  hasitha aravinda (Email: hasithatw@gmail.com )_
 
 
 
-==Copyright Notice==    
+=Copyright Notice=    
 
 Mooshak Theme Manager 1.0
 a web based software to modify Mooshak's basic HTML view.
