@@ -2,8 +2,8 @@
 
 _Copyright (C) January 2011  hasitha aravinda (Email: hasithatw@gmail.com )_
 
- # [ReleaseNote#Copyright-Notice Copyright Notice]
- # Introduction
+ # [ReleaseNote#Copyright_Notice Copyright Notice]
+ # [ReleaseNote#Introduction Introduction]
  # Requirements
  # Configuration
  # Installation / uninstallation 
@@ -51,14 +51,13 @@ To install Mooshak Theme manager you must have a Linux server with the following
 
 
 
-==Configuration== _important before installation_
+==Configuration==  
+_important before installation_
 
 
-To install Mooshak Theme manager you must have to configure PHP for user directory (public_html)
+To install Mooshak Theme manager you must have to configure PHP for user directory (public_html).  following tutorial tells how to configure it. 
 
-follow following tutorial to configure  it. 
-
-	****How to run PHP files from ~/public_html/ using Ubuntu.****
+	===How to run PHP files from ~/public_html/ using Ubuntu.===
 
 Make user that you have installed php5 in your system. If not execute following commands in terminal.
 
