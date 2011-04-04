@@ -2,7 +2,7 @@
 
 _Copyright (C) January 2011  hasitha aravinda (Email: hasithatw@gmail.com )_
 
-# [CopyrightNotice#Copyright_Notice]   
+# Copyright Notice 
 # Introduction
 # Requirements
 # Configuration
