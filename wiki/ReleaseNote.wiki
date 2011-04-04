@@ -2,7 +2,7 @@
 
 _Copyright (C) January 2011  hasitha aravinda (Email: hasithatw@gmail.com )_
 
- # [Copyright Notice]
+ # Copyright Notice
  # Introduction
  # Requirements
  # Configuration
@@ -13,61 +13,45 @@ _Copyright (C) January 2011  hasitha aravinda (Email: hasithatw@gmail.com )_
 
 
 
-=Copyright Notice=    
+==Copyright Notice==    
 
 Mooshak Theme Manager 1.0
 a web based software to modify Mooshak's basic HTML view.
 Copyright (C) January 2011  hasitha aravinda (Email: hasithatw@gmail.com )
 
-This program is free software: you can redistribute it and/or modify it under the terms of
- the GNU General Public License as published by the Free Software Foundation, version 3 of the License.
+This program is free software: you can redistribute it and/or modify it under the terms of  the GNU General Public License as published by the Free Software Foundation, version 3 of the License.
 
-This program is distributed in the hope that it will be useful,but WITHOUT ANY WARRANTY; 
-without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  
-See the GNU General Public License for more details.
+This program is distributed in the hope that it will be useful,but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details.
 
-You should have received a copy of the GNU General Public License along with this program. 
-If not, see <http://www.gnu.org/licenses/>.
+You should have received a copy of the GNU General Public License along with this program. If not, see <http://www.gnu.org/licenses/>.
 
 
-
-
-
-
-
-2) Introduction
+==Introduction==
 
 Thank you for downloading this application and hopefully you will find it of benefit to you.
 
 This is a plug-in for Mooshak 1.5.
-This system allows to administrator of the mooshak to add new Texts, Colorful backgrounds, 
-and images to Mooshak's welcome web page. Also he/she can change the web interface of the 
-mooshak ,editing the CSS files. This plug-in provides lot of feature to edit mooshak contents.
+This system allows to administrator of the mooshak to add new Texts, Colorful backgrounds, and images to Mooshak's welcome web page. Also he/she can change the web interface of the mooshak ,editing the CSS files. This plug-in provides lot of feature to edit mooshak contents.
 
 
 
 
 
 
-3) Requirements
+==Requirements==
 
 To install Mooshak Theme manager you must have a Linux server with the following
  packages installed 
 
-	 *) Tcl 8.3 or greater 
-	 *) Apache 1.2 or greater
-	 *) Mooshak 1.5 (if you have working copy of mooshak, above Requirements are already satisfied)
-	 *) PHP 5.0 or greater
-	 *) a Web browser (recommended browser is Mozila firefox 3.x , chromium is not recommended ; because found some compatibility issues in chromium browser )
+	 * Tcl 8.3 or greater 
+	 * Apache 1.2 or greater
+	 * Mooshak 1.5 (if you have working copy of mooshak, above Requirements are already satisfied)
+	 * PHP 5.0 or greater
+	 * a Web browser (recommended browser is Mozila firefox 3.x)
 
 
 
-
-
-
-
-
-4) Configuration. <important before instalation>
+==Configuration== _important before installation_
 
 
 To install Mooshak Theme manager you must have to configure PHP for user directory (public_html)
