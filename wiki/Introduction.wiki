@@ -1,0 +1,3 @@
+This is a plug-in for Mooshak 1.5.This system allows to administrator of the mooshak to add new Texts, Colorful backgrounds, and images to Mooshak's welcome web page. Also he/she can change the web interface of the mooshak ,editing the CSS files. This plug-in provides lot of feature to edit mooshak contents.
+
+This is done as an assignment under CS3200 course module of Computer Science and Engineering Department, University of Moratuwa, Sri Lanka. 
