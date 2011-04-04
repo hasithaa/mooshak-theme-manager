@@ -1,8 +1,0 @@
-#labels requrments
-To install Mooshak Theme manager you must have a Linux server with the following packages installed 
-
-	 * Tcl 8.3 or greater 
-	 *Apache 1.2 or greater
-	 * Mooshak 1.5 (if you have working copy of mooshak, above Requirements are already satisfied)
-	 * PHP 5.0 or greater
-	 * AWeb browser (recommended browser is Mozila firefox 3.x )
