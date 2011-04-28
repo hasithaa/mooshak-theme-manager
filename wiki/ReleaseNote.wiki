@@ -50,7 +50,8 @@ To install Mooshak Theme manager you must have a Linux server with the following
 
 
 
-==Configuration==   _important before installation_
+==Configuration==  
+ _important before installation_
 
 
 
