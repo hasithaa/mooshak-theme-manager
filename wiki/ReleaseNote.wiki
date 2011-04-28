@@ -50,8 +50,8 @@ To install Mooshak Theme manager you must have a Linux server with the following
 
 
 
-==Configuration==  
-_important before installation_
+==Configuration==   _important before installation_
+
 
 
 To install Mooshak Theme manager you must have to configure PHP for user directory (public_html).  following tutorial tells how to configure it. 
@@ -113,21 +113,21 @@ Simply replace the `$USERNAME` with the user name of the user you wish to allow 
 
 ==Installation==    
 
-In installation process there are several steps. Follow follwing steps in installation process
+In installation process there are several steps. Follow following steps in installation process
 
 1) configure user directory settings. 
 (see (4) configurations )
 2) install using --install arguments 
 
 	i) get the root permission 
-	 	$sudo su
+	 	{{{$sudo su}}}
 	ii) unpack the MTM1_0.tar 
-	 	$tar xf MTM1_0.tar 
+	 	{{{$tar xf MTM1_0.tar }}}
 
 	iii) change in to  Final  directory 
-		$cd Final
+		{{{$cd Final}}}
 	iv) run install.sh file to install 
-		$./install  --install 
+		{{{$./install  --install }}}
 
 { to get help just type $./install.sh in terminal. }
 
