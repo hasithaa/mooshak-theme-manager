@@ -8,8 +8,8 @@ _Copyright (C) January 2011  hasitha aravinda (Email: hasithatw@gmail.com )_
  # [ReleaseNote#Configuration Configuration]
  # [ReleaseNote#Installation Installation / Uninstallation ]
  # [ReleaseNote#Running Running]
- # Directory structure
- # Modules and plugins
+ # [ReleaseNote#Directory_structure Directory structure]
+ # [ReleaseNote#Modules_and_plug-ins Modules and plug-ins]
 
 
 
@@ -51,7 +51,7 @@ To install Mooshak Theme manager you must have a Linux server with the following
 
 
 ==Configuration==  
- _important before installation_
+==== _important before installation_====
 
 
 
@@ -151,15 +151,17 @@ usage of install :
 Default user is mooshak. So no need to use "--user mooshak" again and again 
 
 Examples:
-
+ instalation : 
 {{{
- instalation : ./install.sh --user mooshak --install
+./install.sh --user mooshak --install
 }}}
+Delete install.php :
 {{{
-Delete install.php : ./install.sh --user mooshak --delconfig
+ ./install.sh --user mooshak --delconfig
 }}}
+uninstallation :
 {{{
-uninstallation : ./install.sh --user mooshak --uninstall 
+ ./install.sh --user mooshak --uninstall 
 }}}
 
 3) configure user login details via "http://your.machine/~mooshak/TM/"
@@ -197,13 +199,11 @@ _If you have already a Mooshak installation in the user directory you specified 
 
 To start using Mooshak just open your favorite browser with the URL.
 
-(if your browsing using same machine , your.machine is localhost or 127.0.0.1 )
-(recommended browser is Mozila firefox 3.x; chromium is not recommended ; because found some compatibility issues in chromium browser )    
+(if your browsing using same machine , your.machine is localhost or 127.0.0.1 . recommended browser is Mozila firefox 3.x; chromium is not recommended ; because found some compatibility issues in chromium browser )    
 
 	http://your.machine/~mooshak/TM/ 
 
-(assuming you used the Mooshak default user; othewise change the user
-name to the one you have choosen).
+(assuming you used the Mooshak default user; otherwise change the user name to the one you have chosen).
 
 
 
@@ -211,41 +211,49 @@ name to the one you have choosen).
 
 
 
-7) Directory structure
+==Directory structure==
 
 
 
-	articles	store articles in php mode. article gives infomation about program
-	assets		store other open source packages which are used in MTM 
-	backup		to store backup files
-	config		store installation files.
-	data		store data of MTM. 
-	images		store images
-	menu		store menus and thire data (images etc.). menus used to open the programs and articles
-	module		store modules and thire data (images etc.). modules are the programs that used to edit contents.
-	plugin		store plugins and thire data (images etc.) . plugin are used to improve quality of the software
+* articles	store articles in php mode. article gives information about program
+
+* assets		store other open source packages which are used in MTM 
+
+* backup	to store backup files
+
+* config		store installation files.
+
+* data		store data of MTM. 
+
+* images		store images
+
+* menu		store menus and their data (images etc.). Menus used to open the programs and articles
+
+* module	store modules and their data. Modules are the programs that used to edit contents.
+
+* plugin		store plugins and their data (images etc.) . Plugin are used to improve quality of the software
 
 
 
 
 
 
-8) Modules and plugins
+==Modules and plug-ins==
 
 
-Gamma CSS editor 0.2  (module/csseditor.php) author Hasitha aravinda
+* Gamma CSS editor 0.2  (module/csseditor.php) author Hasitha aravinda
 	a web based software to modify server side CSS files.
 
-Front page Manager (module/front.php)
+* Front page Manager (module/front.php)
 	a web based software to edit front.html page of the mooshak. it includes ckeditor(a The text editor for Internet) as supporting software. 
 
-Reset (module/reset.php)
+* Reset (module/reset.php)
 	allows to reset backuped data of mooshak.
 
-save and load (module/save.php)
+* save and load (module/save.php)
 	allows to download current index.html file of mooshak and allows to upload pre-designed index.html in to mooshak server.
 
-File Uploader (module/upload.php)
+* File Uploader (module/upload.php)
 	allows to uoload image files (only jpg,  gif and png are allowed and should be less than 200 KB ) and they are stored in /~mooshak/others/
 
 File viewer (module/viewer.php)
