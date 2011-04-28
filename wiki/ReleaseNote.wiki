@@ -4,9 +4,9 @@ _Copyright (C) January 2011  hasitha aravinda (Email: hasithatw@gmail.com )_
 
  # [ReleaseNote#Copyright_Notice Copyright Notice]
  # [ReleaseNote#Introduction Introduction]
- # Requirements
- # Configuration
- # Installation / uninstallation 
+ # [ReleaseNote#Requirements Requirements]
+ # [ReleaseNote#Configuration Configuration]
+ # Installation / Uninstallation 
  # Running
  # Directory structure
  # Modules and plugins
