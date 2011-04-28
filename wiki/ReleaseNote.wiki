@@ -215,23 +215,32 @@ To start using Mooshak just open your favorite browser with the URL.
 
 
 
- * articles	store articles in php mode. article gives information about program
+ * articles	
+store articles in php mode. article gives information about program
 
- * assets		store other open source packages which are used in MTM 
+ * assets		
+store other open source packages which are used in MTM 
 
- * backup	to store backup files
+ * backup	
+to store backup files
 
- * config		store installation files.
+ * config		
+store installation files.
 
- * data		store data of MTM. 
+ * data		
+store data of MTM. 
 
- * images	store images
+ * images	
+store images
 
- * menu		store menus and their data (images etc.). Menus used to open the programs and articles
+ * menu		
+store menus and their data (images etc.). Menus used to open the programs and articles
 
- * module	store modules and their data. Modules are the programs that used to edit contents.
+ * module	
+store modules and their data. Modules are the programs that used to edit contents.
 
- * plugin		store plugins and their data (images etc.) . Plugin are used to improve quality of the software
+ * plugin		
+store plugins and their data (images etc.) . Plugin are used to improve quality of the software
 
 
 
