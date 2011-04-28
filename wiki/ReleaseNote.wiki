@@ -215,23 +215,23 @@ To start using Mooshak just open your favorite browser with the URL.
 
 
 
-* articles	store articles in php mode. article gives information about program
+ * articles	store articles in php mode. article gives information about program
 
-* assets		store other open source packages which are used in MTM 
+ * assets		store other open source packages which are used in MTM 
 
-* backup	to store backup files
+ * backup	to store backup files
 
-* config		store installation files.
+ * config		store installation files.
 
-* data		store data of MTM. 
+ * data		store data of MTM. 
 
-* images		store images
+ * images	store images
 
-* menu		store menus and their data (images etc.). Menus used to open the programs and articles
+ * menu		store menus and their data (images etc.). Menus used to open the programs and articles
 
-* module	store modules and their data. Modules are the programs that used to edit contents.
+ * module	store modules and their data. Modules are the programs that used to edit contents.
 
-* plugin		store plugins and their data (images etc.) . Plugin are used to improve quality of the software
+ * plugin		store plugins and their data (images etc.) . Plugin are used to improve quality of the software
 
 
 
@@ -241,23 +241,23 @@ To start using Mooshak just open your favorite browser with the URL.
 ==Modules and plug-ins==
 
 
-* Gamma CSS editor 0.2  (module/csseditor.php) author Hasitha aravinda
+ * Gamma CSS editor 0.2  (module/csseditor.php) author Hasitha aravinda
 	a web based software to modify server side CSS files.
 
-* Front page Manager (module/front.php)
+ * Front page Manager (module/front.php)
 	a web based software to edit front.html page of the mooshak. it includes ckeditor(a The text editor for Internet) as supporting software. 
 
-* Reset (module/reset.php)
+ * Reset (module/reset.php)
 	allows to reset backuped data of mooshak.
 
-* save and load (module/save.php)
+ * save and load (module/save.php)
 	allows to download current index.html file of mooshak and allows to upload pre-designed index.html in to mooshak server.
 
-* File Uploader (module/upload.php)
+ * File Uploader (module/upload.php)
 	allows to uoload image files (only jpg,  gif and png are allowed and should be less than 200 KB ) and they are stored in /~mooshak/others/
 
-File viewer (module/viewer.php)
+ * File viewer (module/viewer.php)
 	show a small view of uploaded images and allows to delete them and enlarge them.
 
-Font resizer 0.1  (plugin/fontsize.php) author Hasitha aravinda		
+ * Font resizer 0.1  (plugin/fontsize.php) author Hasitha aravinda		
 	this is client side application , which allows to resize font size in web pages.
