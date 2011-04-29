@@ -4,8 +4,7 @@
 In installation process there are several steps. Follow following steps in installation process
 
 1) configure user directory settings. 
-(see [ReleaseNote#Configuration Configuration])
-2) install using --install arguments 
+(see [ReleaseNote#Configuration Configuration]) install using --install arguments 
 
 	i) get the root permission 
 {{{
@@ -71,4 +70,3 @@ Un-installation process
 ====_Note_====
 
 _If you have already a Mooshak installation in the user directory you specified then the install script will prevent installation to avoid damaging your data._
-
