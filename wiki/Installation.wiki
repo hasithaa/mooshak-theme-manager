@@ -3,8 +3,12 @@
 
 In installation process there are several steps. Follow following steps in installation process
 
-1) configure user directory settings. 
-(see [ReleaseNote#Configuration Configuration]) install using --install arguments 
+*1) configure user directory settings.* 
+
+(see [ReleaseNote#Configuration Configuration]) 
+
+
+*2) install using --install arguments* 
 
 	i) get the root permission 
 {{{
@@ -23,6 +27,8 @@ $cd Final
 {{{
 $./install  --install 
 }}}
+
+
 
 to get help just type in terminal. 
 {{{
@@ -50,12 +56,13 @@ uninstallation :
  ./install.sh --user mooshak --uninstall 
 }}}
 
-3) configure user login details via "http://your.machine/~mooshak/TM/"
-  (recommended browser is Mozila firefox 3.x , if your browsing using same machine , your.machine is localhost or 127.0.0.1 )
+*3) configure user login details via "http://your.machine/~mooshak/TM/" *
 
-4) remove installation files using --delconfig. (see second example)
+(recommended browser is Mozila firefox 3.x , if your browsing using same machine , your.machine is localhost or 127.0.0.1 )
 
-5) access Plug-in via "http://your.machine/~mooshak/TM/"
+*4) remove installation files using --delconfig. (see second example)*
+
+*5) access Plug-in via "http://your.machine/~mooshak/TM/"*
 
 
 ====Un-Installation====
