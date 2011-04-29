@@ -5,7 +5,7 @@ In installation process there are several steps. Follow following steps in insta
 
 *1) configure user directory settings.* 
 
-(see [ReleaseNote#Configuration Configuration]) 
+(see [Configuration# Configuration]) 
 
 
 *2) install using --install arguments* 
